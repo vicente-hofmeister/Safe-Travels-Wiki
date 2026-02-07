@@ -4,7 +4,7 @@ Table users {
   username varchar [not null]
   name varchar [not null]
   email varchar[] [not null]
-  phone integer
+  phone varchar
   created_at timestamp [not null, default: `now()`]
   updated_at timestamp [not null, default: `now()`]
   deleted_at timestamp

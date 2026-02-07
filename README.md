@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Repositório destinado ao registro da elaboração do Trabalho de Conclusão de Curso (TCC) de Sistemas de Informação do aluno Vicente Hofmeister pela Pontifícia Universidade Católica do Rio Grande do Sul (PUCRS), com orientação do Prof. Me. Filipo Novo Mor.
+Repositório destinado ao registro da elaboração do Trabalho de Conclusão de Curso (TCC) de Sistemas de Informação do aluno Vicente Hofmeister pela Pontifícia Universidade Católica do Rio Grande do Sul (PUCRS).
 
 Este trabalho propõe o desenvolvimento de um sistema colaborativo para compartilhamento de dados de localização em tempo real durante viagens em grupo, enfrentando limitações de conectividade e garantindo maior segurança e privacidade na integração das informações.
 
@@ -23,21 +23,3 @@ O presente repositório serve o papel de Wiki. Para acompanhar o desenvolvimento
 - [Diagrama da Lambda de processamento da API](docs/architecture/api_processing_lambda_diagram_v2.png)
 - [Diagrama da Lambda de processamento da fila](docs/architecture/queue_processing_lambda_diagram_v2.png)
 - [One Drive com outros documentos](https://brpucrs-my.sharepoint.com/:f:/g/personal/v_hofmeister_edu_pucrs_br/Em8yZYhOW4xBpY9jZeVMPYoBS6WAZFX58U5XdOPTQgsgyw?e=eg4fgu)
-
-## TO-DO
-
-- [x] Atualizar diagrama API com S3, Parameter Store e SES (EC2)
-- [ ] Estimativa de custos???
-  - [ ] Estimativa de tamanho de dados de loc???
-- [x] Criar documento para volume final de TCC 1
-- [x] Finalizar planejamento de database
-  - [x] Finalizar mapeamento SQL
-    - [x] Adicionar trips
-  - [ ] Documentar / escrever sobre
-- [ ] Finalizar prototipação de telas
-  - [ ] Telas
-  - [ ] Documentar
-- [x] Finalizar mapeamento de endpoints
-  - [x] Data Ingestion
-  - [x] Data Feeding
-  - [x] Social
