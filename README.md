@@ -14,7 +14,7 @@ O presente repositório serve o papel de Wiki. Para acompanhar o desenvolvimento
 ## Documentos e links relevantes:
 
 - [Proposta de TCC](docs/volumes/Proposta_TCC_Vicente_Hofmeister.pdf)
-- [Overleaf Volume Final TCC I](https://pt.overleaf.com/read/njvdmjmbsqmz#5db9e7)
+- [Volume Final TCC I](docs/volumes/Volume_Final_TCC_I_Vicente_Hofmeister.pdf)
 - [Endpoints da API](docs/api/swagger.yml)
 - [Arquitetura do banco de dados (SQL)](docs/database/sql_database_model.dbml)
 - [Diagrama de modelagem do banco de dados (SQL)](docs/database/sql_diagram_light.png)
