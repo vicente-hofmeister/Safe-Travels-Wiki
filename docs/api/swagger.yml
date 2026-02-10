@@ -11,7 +11,7 @@ components:
       bearerFormat: JWT
 
 servers:
-  - url: https://api.server.test/v1 # TODO: Replace with actual server url
+  - url: https://0vek03sk8i.execute-api.us-east-1.amazonaws.com/
 
 paths:
   /auth/login:
